@@ -1,0 +1,48 @@
+{
+  "experiment": "exp2_win_score",
+  "sample_start": "2024-09-01",
+  "sample_end": "2025-07-31",
+  "win_score_threshold": 0.5,
+  "total_lps": 410,
+  "observed": {
+    "pnl_positive_pct": 45.8537,
+    "consistent_pct": 43.4146,
+    "win_score_mean": 0.4613,
+    "win_score_median": 0.2536,
+    "win_score_std": 0.4692
+  },
+  "paper_targets": {
+    "pnl_positive_pct": 15.7,
+    "consistent_pct": 15.1
+  },
+  "per_pool": {
+    "aerodrome_slipstream_005": {
+      "lp_count": 180,
+      "pnl_positive_count": 80,
+      "pnl_positive_pct": 44.4444,
+      "consistent_count": 76,
+      "consistent_pct": 42.2222
+    },
+    "pancakeswap_v3_001": {
+      "lp_count": 50,
+      "pnl_positive_count": 25,
+      "pnl_positive_pct": 50.0,
+      "consistent_count": 25,
+      "consistent_pct": 50.0
+    },
+    "sushiswap_v3_001": {
+      "lp_count": 30,
+      "pnl_positive_count": 14,
+      "pnl_positive_pct": 46.6667,
+      "consistent_count": 12,
+      "consistent_pct": 40.0
+    },
+    "uniswap_v3_005": {
+      "lp_count": 150,
+      "pnl_positive_count": 69,
+      "pnl_positive_pct": 46.0,
+      "consistent_count": 65,
+      "consistent_pct": 43.3333
+    }
+  }
+}

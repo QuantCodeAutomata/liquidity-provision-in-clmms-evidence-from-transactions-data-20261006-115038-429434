@@ -1,0 +1,76 @@
+{
+  "experiment": "exp1_pnl_reconstruction",
+  "sample_start": "2024-09-01",
+  "sample_end": "2025-07-31",
+  "transaction_counts": {
+    "initial_total": 5623,
+    "after_zero_value_filter": 4821,
+    "after_dynamic_balance": 3214,
+    "zero_value_removal_pct": 14.26,
+    "dynamic_balance_retention_pct": 66.67
+  },
+  "lp_counts": {
+    "eligible_lps": 410,
+    "reconstructed_lps": 410,
+    "classified_lps": 410,
+    "reconstructed_positions": 1607
+  },
+  "paper_targets": {
+    "zero_value_removal_pct": 50.0,
+    "dynamic_balance_retention_pct": 65.0
+  },
+  "per_pool": {
+    "uniswap_v3_005": {
+      "initial_mint": 877,
+      "initial_burn": 585,
+      "initial_collect": 585,
+      "filtered_mint": 585,
+      "filtered_burn": 585,
+      "filtered_collect": 585,
+      "eligible_lp_count": 150,
+      "retained_mint": 585,
+      "retained_burn": 585,
+      "retained_collect": 585,
+      "reconstructed_lp_count": 150
+    },
+    "aerodrome_slipstream_005": {
+      "initial_mint": 1024,
+      "initial_burn": 683,
+      "initial_collect": 683,
+      "filtered_mint": 683,
+      "filtered_burn": 683,
+      "filtered_collect": 683,
+      "eligible_lp_count": 180,
+      "retained_mint": 683,
+      "retained_burn": 683,
+      "retained_collect": 683,
+      "reconstructed_lp_count": 180
+    },
+    "pancakeswap_v3_001": {
+      "initial_mint": 327,
+      "initial_burn": 218,
+      "initial_collect": 218,
+      "filtered_mint": 218,
+      "filtered_burn": 218,
+      "filtered_collect": 218,
+      "eligible_lp_count": 50,
+      "retained_mint": 218,
+      "retained_burn": 218,
+      "retained_collect": 218,
+      "reconstructed_lp_count": 50
+    },
+    "sushiswap_v3_001": {
+      "initial_mint": 181,
+      "initial_burn": 121,
+      "initial_collect": 121,
+      "filtered_mint": 121,
+      "filtered_burn": 121,
+      "filtered_collect": 121,
+      "eligible_lp_count": 30,
+      "retained_mint": 121,
+      "retained_burn": 121,
+      "retained_collect": 121,
+      "reconstructed_lp_count": 30
+    }
+  }
+}

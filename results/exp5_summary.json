@@ -1,0 +1,49 @@
+{
+  "experiment": "exp5_win_position_analysis",
+  "sample_start": "2024-09-01",
+  "sample_end": "2025-07-31",
+  "position_types_analysed": [
+    3,
+    5,
+    7
+  ],
+  "consistently_successful_lps": 178,
+  "observed": {
+    "3": {
+      "n_lp": 3,
+      "n_tx": 3,
+      "delta_start_pct": 0.0,
+      "delta_pct": 66.8386437065897,
+      "r_cap_pct": 0.7883166280473239,
+      "r_price_pct": 0.8950135393720144,
+      "avg_duration_sec": 157912.0
+    },
+    "5": {
+      "n_lp": 128,
+      "n_tx": 260,
+      "delta_start_pct": 47.42676504230255,
+      "delta_pct": 4.263056809296027,
+      "r_cap_pct": 4.648092224408633,
+      "r_price_pct": 0.1454901429893546,
+      "avg_duration_sec": 156629.05384615384
+    },
+    "7": {
+      "n_lp": 29,
+      "n_tx": 36,
+      "delta_start_pct": 60.03561147480821,
+      "delta_pct": 39.964388525191794,
+      "r_cap_pct": 7.93120481296342,
+      "r_price_pct": 0.20936776680595248,
+      "avg_duration_sec": 283870.97222222225
+    }
+  },
+  "paper_targets": {
+    "5": {
+      "delta_start_pct": 47.8,
+      "delta_pct": 8.0
+    },
+    "7": {
+      "delta_start_pct": 56.6
+    }
+  }
+}

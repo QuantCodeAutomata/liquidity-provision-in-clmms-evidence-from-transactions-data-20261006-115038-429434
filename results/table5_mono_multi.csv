@@ -1,0 +1,6 @@
+pool,total_lp,mono_lp_count,mono_lp_pct,multi_lp_count,multi_lp_pct
+aerodrome_slipstream_005,180,173,96.11111111111111,7,3.888888888888889
+pancakeswap_v3_001,50,48,96.0,2,4.0
+sushiswap_v3_001,30,28,93.33333333333333,2,6.666666666666667
+uniswap_v3_005,150,144,96.0,6,4.0
+Network unique,400,393,98.25,7,1.75

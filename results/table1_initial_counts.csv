@@ -1,0 +1,6 @@
+pool,protocol,mint_initial,burn_initial,collect_initial,total_initial
+uniswap_v3_005,Uniswap V3,877,585,585,2047
+aerodrome_slipstream_005,Aerodrome SlipStream,1024,683,683,2390
+pancakeswap_v3_001,PancakeSwap V3,327,218,218,763
+sushiswap_v3_001,SushiSwap V3,181,121,121,423
+Total,—,2409,1607,1607,5623

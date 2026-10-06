@@ -1,0 +1,121 @@
+{
+  "experiment": "exp4_position_types",
+  "sample_start": "2024-09-01",
+  "sample_end": "2025-07-31",
+  "total_positions": 1607,
+  "type_5_6_combined": {
+    "tx_share_pct": 74.3622,
+    "cap_share_pct": 75.242
+  },
+  "paper_targets": {
+    "types_5_6_tx_pct": 90.0,
+    "types_5_6_cap_pct": 90.0
+  },
+  "by_type": [
+    {
+      "position_type": 1,
+      "tx_count": 62,
+      "tx_share_pct": 3.8581,
+      "capital_sum_usdc": 353494.28,
+      "capital_share_pct": 3.0338
+    },
+    {
+      "position_type": 2,
+      "tx_count": 78,
+      "tx_share_pct": 4.8538,
+      "capital_sum_usdc": 272024.95,
+      "capital_share_pct": 2.3346
+    },
+    {
+      "position_type": 3,
+      "tx_count": 12,
+      "tx_share_pct": 0.7467,
+      "capital_sum_usdc": 57864.49,
+      "capital_share_pct": 0.4966
+    },
+    {
+      "position_type": 4,
+      "tx_count": 69,
+      "tx_share_pct": 4.2937,
+      "capital_sum_usdc": 508925.24,
+      "capital_share_pct": 4.3677
+    },
+    {
+      "position_type": 5,
+      "tx_count": 590,
+      "tx_share_pct": 36.7144,
+      "capital_sum_usdc": 5572077.04,
+      "capital_share_pct": 47.8212
+    },
+    {
+      "position_type": 6,
+      "tx_count": 605,
+      "tx_share_pct": 37.6478,
+      "capital_sum_usdc": 3195044.97,
+      "capital_share_pct": 27.4208
+    },
+    {
+      "position_type": 7,
+      "tx_count": 77,
+      "tx_share_pct": 4.7915,
+      "capital_sum_usdc": 921865.93,
+      "capital_share_pct": 7.9117
+    },
+    {
+      "position_type": 8,
+      "tx_count": 10,
+      "tx_share_pct": 0.6223,
+      "capital_sum_usdc": 57741.37,
+      "capital_share_pct": 0.4956
+    },
+    {
+      "position_type": 9,
+      "tx_count": 2,
+      "tx_share_pct": 0.1245,
+      "capital_sum_usdc": 3249.26,
+      "capital_share_pct": 0.0279
+    },
+    {
+      "position_type": 10,
+      "tx_count": 3,
+      "tx_share_pct": 0.1867,
+      "capital_sum_usdc": 76383.07,
+      "capital_share_pct": 0.6555
+    },
+    {
+      "position_type": 11,
+      "tx_count": 46,
+      "tx_share_pct": 2.8625,
+      "capital_sum_usdc": 300187.16,
+      "capital_share_pct": 2.5763
+    },
+    {
+      "position_type": 12,
+      "tx_count": 53,
+      "tx_share_pct": 3.2981,
+      "capital_sum_usdc": 333039.55,
+      "capital_share_pct": 2.8582
+    },
+    {
+      "position_type": 13,
+      "tx_count": 0,
+      "tx_share_pct": 0.0,
+      "capital_sum_usdc": 0.0,
+      "capital_share_pct": 0.0
+    },
+    {
+      "position_type": 14,
+      "tx_count": 0,
+      "tx_share_pct": 0.0,
+      "capital_sum_usdc": 0.0,
+      "capital_share_pct": 0.0
+    },
+    {
+      "position_type": 15,
+      "tx_count": 0,
+      "tx_share_pct": 0.0,
+      "capital_sum_usdc": 0.0,
+      "capital_share_pct": 0.0
+    }
+  ]
+}

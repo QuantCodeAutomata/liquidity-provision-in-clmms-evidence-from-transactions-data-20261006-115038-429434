@@ -1,0 +1,4 @@
+n_pools_in,count,pnl_pos_in_any,pnl_pos_pct,consistent_in_any,consistent_pct
+2,4,2,50.0,2,50.0
+3,3,3,100.0,3,100.0
+Total multi-LP,7,5,71.42857142857143,5,71.42857142857143
